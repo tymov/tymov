@@ -40,3 +40,7 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jqoeaaa67munrlfurb4rglnzwe&unique={true|1|on|yes})
  
+
+<div align="center">
+ Connect with me here:
+ </div>
