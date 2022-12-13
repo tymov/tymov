@@ -43,5 +43,5 @@
 <br>
 <div align="center">
  Connect with me here:
-  <a href="https://www.linkedin.com/in/tymo-verhaegen-161b18221/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title"LinkedIn" alt="LinkedIn" height="25" width="25" />&nbsp
+  <div align="center"><a href="https://www.linkedin.com/in/tymo-verhaegen-161b18221/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title"LinkedIn" alt="LinkedIn" height="25" width="25" />&nbsp</div>
  </div>
