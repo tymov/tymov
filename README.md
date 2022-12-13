@@ -37,11 +37,24 @@
 <br>
 
 <h3>Some fun stuff</h3>
-
+<div style="display:flex">
+ <div style="flex:1;padding-right:10px;">
+ 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jqoeaaa67munrlfurb4rglnzwe&unique={true|1|on|yes})
+
+ </div>
+ <div style="flex:1;padding-left:10px;">
+  
+   [![Spotify](https://novatorem-ic0mgepbv-tymov.vercel.app/api/spotify)](https://open.spotify.com/user/31jqoeaaa67munrlfurb4rglnzwe)
+  
+ </div>
+</div>
+
  
 <br>
 <div align="center">
  Connect with me here:
   <div align="center"><a href="https://www.linkedin.com/in/tymo-verhaegen-161b18221/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title"LinkedIn" alt="LinkedIn" height="25" width="25" />&nbsp</div>
  </div>
+ 
+
