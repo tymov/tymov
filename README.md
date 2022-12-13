@@ -36,17 +36,18 @@
 
 <br>
 
+
 <h3>Some fun stuff</h3>
-<div style="display:flex">
- <div style="flex:1;padding-right:10px;">
- 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jqoeaaa67munrlfurb4rglnzwe&unique={true|1|on|yes})
+<div>
+ <div>
+
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jqoeaaa67munrlfurb4rglnzwe&unique={true|1|on|yes})
 
  </div>
- <div style="flex:1;padding-left:10px;">
-  
+ <div>
+
    [![Spotify](https://novatorem-ic0mgepbv-tymov.vercel.app/api/spotify)](https://open.spotify.com/user/31jqoeaaa67munrlfurb4rglnzwe)
-  
+
  </div>
 </div>
 
