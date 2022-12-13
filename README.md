@@ -2,14 +2,17 @@
 
 <h3 align="center"> Student at Thomas More </h3>
 
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+- :school: Currently studying Applied Computer Sciences
+- :movie_camera: Movie fan
+- :musical_keyboard: Music lover
+- :runner: Nerd that actually exercises
 
 
-<div></div>
-
-<h3>Some fun links></h3>
 <div>
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)]([https://open.spotify.com/collection/tracks](https://open.spotify.com/playlist/57N0vBzECWnn6Jc2Cz0Ayj?si=25f70b32dc0b4c7b))
- 
+
 </div>
+
+<h3>Some fun links</h3>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jqoeaaa67munrlfurb4rglnzwe&unique={true|1|on|yes})
+ 
