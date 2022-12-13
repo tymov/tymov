@@ -36,7 +36,7 @@
 
 <br>
 
-<h3>Some fun links</h3>
+<h3>Some fun stuff</h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jqoeaaa67munrlfurb4rglnzwe&unique={true|1|on|yes})
  
