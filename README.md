@@ -40,7 +40,8 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jqoeaaa67munrlfurb4rglnzwe&unique={true|1|on|yes})
  
-
+<br>
 <div align="center">
  Connect with me here:
+  <a href="https://www.linkedin.com/in/tymo-verhaegen-161b18221/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title"LinkedIn" alt="LinkedIn" height="25" width="25" />&nbsp
  </div>
