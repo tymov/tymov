@@ -39,12 +39,12 @@
 
 <h3>Some fun stuff</h3>
 <div>
- <div>
+ <div align="left">
 
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jqoeaaa67munrlfurb4rglnzwe&unique={true|1|on|yes})
 
  </div>
- <div>
+ <div align="right-top">
 
    [![Spotify](https://novatorem-ic0mgepbv-tymov.vercel.app/api/spotify)](https://open.spotify.com/user/31jqoeaaa67munrlfurb4rglnzwe)
 
