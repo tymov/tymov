@@ -1,16 +1,15 @@
-### Hi there 👋
+### <h1 align="center">Hello there, it's me Tymo 👋</h1>
 
-<!--
-**tymov/tymov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Student at Thomas More </h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<div></div>
+
+<h3>Some fun links></h3>
+<div>
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)]([https://open.spotify.com/collection/tracks](https://open.spotify.com/playlist/57N0vBzECWnn6Jc2Cz0Ayj?si=25f70b32dc0b4c7b))
+ 
+</div>
