@@ -1,4 +1,4 @@
-### <h1 align="center">Hello there, it's me Tymo 👋</h1>
+### <h1 align="center">Welcome to my humble abode👋</h1>
 
 <h3 align="center"> Student at Thomas More </h3>
 
