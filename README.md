@@ -2,10 +2,9 @@
 
 <h3 align="center"> Student at Thomas More </h3>
 
-- :school: Currently studying Applied Computer Sciences (Application Development)
+- :school: Currently studying for 2nd Bachelor in Applied Computer Sciences (Machine Learning)
 - :movie_camera: Movie fan
 - :musical_keyboard: Music lover
-- :runner: Nerd that actually exercises
 
 
 <h3> Skills </h3>
